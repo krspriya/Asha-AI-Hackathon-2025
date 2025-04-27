@@ -1,0 +1,7 @@
+title,company,role,location,job_type,experience,skills,industry,apply_link
+Senior Software Engineer,TechCorp,Software Developer,Bangalore,Full-time,5 years,"python, java, react",IT,https://www.techcorp.com/jobs/123
+Junior Software Developer,InnoTech,Software Developer,Bangalore,Full-time,2 years,"javascript, python",IT,https://www.innotech.com/careers/456
+Frontend Developer,WebSolutions,Software Developer,Mumbai,Full-time,3 years,"react, javascript, html, css",IT,https://www.websolutions.com/jobs/789
+Backend Engineer,CloudSystems,Software Developer,Delhi,Full-time,4 years,"java, spring, aws",IT,https://www.cloudsystems.com/careers/101
+Data Scientist,DataWorld,Data Scientist,Hyderabad,Full-time,3 years,"python, machine learning, sql",Analytics,https://www.dataworld.com/careers/202
+Women in Tech Internship,TechCorp,Intern,Bangalore,Internship,0 years,"python, java",IT,https://www.techcorp.com/internships/303

@@ -1,0 +1,6 @@
+greeting_response: "Hello! How can I help you today? I can provide information on women's careers, job listings, community events, mentorship programs, and session details."
+bias_response: "I am designed to be inclusive and provide factual information.  I cannot process requests that promote harmful stereotypes."
+session_response_header: "Here are some upcoming sessions:"
+job_response_header: "Here are some job listings that might interest you:"
+no_results_response: "I'm sorry, I couldn't find specific information related to your query.  I can also search the web for more general information."
+general_error_response: "I encountered an error while processing your request. Please try again later."
